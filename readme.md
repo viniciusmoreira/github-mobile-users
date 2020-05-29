@@ -6,7 +6,9 @@ Sample using GitHub Api in a React Native app.
 
 ## Running locally
 
+```sh
+# install project packages
 yarn install
 
-\# start android app
+# start android app
 react-native run-android
