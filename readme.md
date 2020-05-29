@@ -1,4 +1,4 @@
-## Github Mobile Users
+## GitHub Mobile Users
 Sample using GitHub Api in a React Native app.
 
 #### Demo
